@@ -64,8 +64,8 @@ https://saas-churn-analytics-yasir.streamlit.app
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Optional)
+- 💼 LinkedIn: www.linkedin.com/in/mohammed-yasir-arafath-pt
+- 📧 Email: yasirpt77@gmail.com
 
 ---
 
