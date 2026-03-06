@@ -1,72 +1,71 @@
-<h1 align="center">Hi 👋, I'm Mohammed Yasir Arafath</h1>
-<h3 align="center">Data Analyst | Machine Learning Enthusiast | SaaS Analytics Builder</h3>
+# 👋 Hi, I'm Mohammed Yasir Arafath
 
-<p align="center">
-  <a href="https://saas-churn-analytics-yasir.streamlit.app">
-    <img src="https://img.shields.io/badge/Live%20ML%20App-Streamlit-red?logo=streamlit" />
-  </a>
-  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-Pandas-yellow?logo=pandas" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikitlearn" />
-</p>
+💻 **Data Analyst | Machine Learning Enthusiast**
+📊 Passionate about transforming data into meaningful insights.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Graduate
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 🤖 Building End-to-End ML Projects
-- ☁ Deploying real-world apps using Streamlit
-- 📈 Focused on solving business problems using data
+* 🎓 BCA Graduate
+* 📊 Data Analyst & Data Science Enthusiast
+* 🧠 Skilled in Data Analysis, Machine Learning & Visualization
+* 🌱 Currently learning **Advanced Data Science & AI**
+* 🎯 Goal: Build impactful data-driven solutions
 
 ---
 
-## 🔥 Featured Project
+## 🧠 Skills
 
-### 🚀 SaaS Customer Intelligence Platform
-> Enterprise-grade churn prediction & analytics system
+### Programming
 
-✔ Random Forest Model (ROC-AUC: 0.855)  
-✔ Risk Segmentation Engine  
-✔ Business KPI Dashboard  
-✔ Bulk Customer Scoring  
-✔ PDF Report Generation  
-✔ Live Cloud Deployment  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-🔗 Live App:  
-https://saas-churn-analytics-yasir.streamlit.app  
+### Data Analytics
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+### Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Portfolio
 
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- Streamlit
-- SQL
-- Power BI
+🔗 **Portfolio Website**
+
+https://yasirpt07.github.io/Mohammed-Yasir-Arafath-portfolio/
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirpt07&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirpt07&theme=radical" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirpt07\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirpt07\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yasirpt07\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/mohammed-yasir-arafath-pt
-- 📧 Email: yasirpt77@gmail.com
+💼 LinkedIn: https://linkedin.com
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⭐ Thanks for visiting my profile!
